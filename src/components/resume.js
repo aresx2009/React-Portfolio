@@ -37,7 +37,7 @@ class Resume extends Component {
                         <Education
                             startYear={2020.03}
                             endYear={2020.09}
-                            schoolName="Southern Methodist University"
+                            schoolName="University of Texas At Arlington"
                             major="MBA: Master of Business Administration"
                         />
                         <Education
